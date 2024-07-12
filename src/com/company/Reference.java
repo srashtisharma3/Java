@@ -1,6 +1,6 @@
 package com.company;
 
-public class Referance {
+public class Reference {
     static void change(int x){
         x = 50;
     }
